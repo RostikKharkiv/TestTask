@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\Users\\GodYato\\source\\repos\\TestTask\\TestTask\\TestTask.csproj": {}
+  },
+  "projects": {
+    "A:\\Users\\GodYato\\source\\repos\\TestTask\\TestTask\\TestTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Users\\GodYato\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+        "projectName": "TestTask",
+        "projectPath": "A:\\Users\\GodYato\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+        "packagesPath": "A:\\Users\\GodYato\\.nuget\\packages\\",
+        "outputPath": "A:\\Users\\GodYato\\source\\repos\\TestTask\\TestTask\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "A:\\Users\\GodYato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "A:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "A:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "A:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+A:\Users\GodYato\source\repos\TestTask\TestTask\bin\Debug\net6.0\TestTask.exe
+A:\Users\GodYato\source\repos\TestTask\TestTask\bin\Debug\net6.0\TestTask.deps.json
+A:\Users\GodYato\source\repos\TestTask\TestTask\bin\Debug\net6.0\TestTask.runtimeconfig.json
+A:\Users\GodYato\source\repos\TestTask\TestTask\bin\Debug\net6.0\TestTask.dll
+A:\Users\GodYato\source\repos\TestTask\TestTask\bin\Debug\net6.0\TestTask.pdb
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.csproj.AssemblyReference.cache
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfoInputs.cache
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.AssemblyInfo.cs
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.csproj.CoreCompileInputs.cache
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.dll
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\refint\TestTask.dll
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.pdb
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\TestTask.genruntimeconfig.cache
+A:\Users\GodYato\source\repos\TestTask\TestTask\obj\Debug\net6.0\ref\TestTask.dll
